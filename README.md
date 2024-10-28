@@ -114,7 +114,7 @@ autoencoder.summary()
 
 ```
 autoencoder.compile(optimizer='adam', loss='binary_crossentropy')
-autoencoder.fit(x_train_noisy, x_train_scaled,
+history = autoencoder.fit(x_train_noisy, x_train_scaled,
                 epochs=2,
                 batch_size=128,
                 shuffle=True,

@@ -23,7 +23,8 @@ The focus is on achieving an efficient encoding-decoding mechanism using convolu
 
 ## Convolution Autoencoder Network Model
 
-Include the neural network model diagram.
+![image](https://github.com/user-attachments/assets/1bf17af9-e4c2-4b86-8cea-693c1d1d0a90)
+
 
 ## DESIGN STEPS
 
